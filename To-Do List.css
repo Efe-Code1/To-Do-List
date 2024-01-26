@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow&family=Jost&family=Poor+Story&display=swap');
 
 body{
-    font-family: 'jost';
+    font-family: 'Barlow', sans-serif;   
     margin: 20px;
     font-size: large;
-    background-color: lightgoldenrodyellow;
+    background-color: lightgray;
 }
 
 
@@ -17,7 +17,7 @@ input[type="text"]{
     padding: 10px;
     border-radius: 10px 0 0 10px;
     border: 1px #0051ff solid;
-    font-family: 'jost';
+    font-family: 'Barlow', sans-serif;
     font-size: 15px;
 }
 
@@ -25,10 +25,10 @@ button{
     border-radius: 0 10px 10px 0;
     padding: 10px;
     border: 1px #0051ff solid;
-    margin-left: -20px;
+    margin-left: -5px;
     background-color: #0051ff;
     color: white;
-    font-family: 'jost';
+    font-family: 'Barlow', sans-serif;
     font-size: 15px;
 }
 
