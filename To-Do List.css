@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+
+body{
+    font-family: 'jost';
+    margin: 20px;
+    font-size: large;
+    background-color: lightgoldenrodyellow;
+}
+
+
+fieldset{
+    width: 50%;
+}
+
+input[type="text"]{
+    width: 40%;
+    padding: 10px;
+    border-radius: 10px 0 0 10px;
+    border: 1px #0051ff solid;
+    font-family: 'jost';
+    font-size: 15px;
+}
+
+button{
+    border-radius: 0 10px 10px 0;
+    padding: 10px;
+    border: 1px #0051ff solid;
+    margin-left: -20px;
+    background-color: #0051ff;
+    color: white;
+    font-family: 'jost';
+    font-size: 15px;
+}
+
+@media screen and (max-width:1000px) {
+    fieldset{
+        width: 90%;
+    }   
+
+    input[type="text"]{
+        width: 70%;
+    }
+}
