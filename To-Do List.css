@@ -2,7 +2,8 @@
 
 body{
     font-family: 'Barlow', sans-serif;   
-    margin: 50px;
+    margin-left: 20px;
+    margin-top: 30px;
     font-size: large;
     background-image: url(Old\ Diary\ Notes\ \(1\).jpeg);
     background-size: cover;
@@ -36,6 +37,7 @@ button{
 
 #clearTodo{
     margin-top: 10px;
+    margin-left: 2px;
     padding: 5px 25px;
     border-radius: 8px;
     border: 1px red solid;
