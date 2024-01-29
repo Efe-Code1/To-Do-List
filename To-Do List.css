@@ -2,9 +2,11 @@
 
 body{
     font-family: 'Barlow', sans-serif;   
-    margin: 20px;
+    margin: 50px;
     font-size: large;
-    background-color: #fff09c;
+    background-image: url(Old\ Diary\ Notes\ \(1\).jpeg);
+    background-size: cover;
+    background-position: center;
 }
 
 
